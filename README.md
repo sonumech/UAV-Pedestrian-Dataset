@@ -1,6 +1,6 @@
 # 🛩️📷 UAV Pedestrian Dataset
 
-[Access the dataset here](https://cciitpatna-my.sharepoint.com/personal/mayur_2211ai09_iitp_ac_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmayur%5F2211ai09%5Fiitp%5Fac%5Fin%2FDocuments%2FAnotations%2FFinal%2Fupload&ga=1)
+[Access the dataset here](https://cciitpatna-my.sharepoint.com/:f:/g/personal/mayur_2211ai09_iitp_ac_in/ElmH1ZWVWa1FpTqNG7oVR2sBYAPO4fVRVnEHDICH2_gYtA?e=cnKCzC)
 
 ## 📜 Overview
 
